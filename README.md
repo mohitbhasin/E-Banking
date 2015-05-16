@@ -3,7 +3,7 @@ online banking system that allow user to login and check balance, transfer funds
 send request to create new account. 
 database used is mysql.
 
-#Every page has validations, so like is a text box is empty and submit button is pressed the error message will pop up.
+#Every page has validations. for instance, If text box is empty and submit button is pressed the error message will pop up.
 #After logging in user will be presented with available balance and options to view details and transfer funds.
 
 
