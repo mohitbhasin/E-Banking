@@ -1,4 +1,4 @@
-# e-banking
+E-Banking
 online banking system that allow user to login and check balance, transfer funds to another account. 
 send request to create new account. 
 database used is mysql.
